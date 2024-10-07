@@ -1,0 +1,2 @@
+- Không thể call api /account trước api /login
+- Bắt buộc phải call api /login trước
